@@ -4,9 +4,7 @@ Deep-in-Disruptor-Step-By-Step
 
 ![image-20200427181055155](http://q8xc9za4f.bkt.clouddn.com/cloudflare/image-20200427181055155.png)
 
-
-
-![img](Deep-in-Disruptor-Step-By-Step.assets/u=2906798474,3616997423&fm=26&gp=0-1587982281049.jpg)
+![image-20200428063017531](http://q8xc9za4f.bkt.clouddn.com/cloudflare/image-20200428063017531.png)
 
 
 
